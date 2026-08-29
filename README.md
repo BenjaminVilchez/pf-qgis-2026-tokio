@@ -18,3 +18,10 @@
 - **URL:** https://stac.terrascope.be/collections/esa-worldcover-map-10m-2021-v2/items?&collections=esa-worldcover-map-10m-2021-v2&sortby=properties.datetime,id&bbox=127.42686286090436,31.22907831881902,145.70166680967142,38.40714236607312
 - **Licencia:** Creative Commons Attribution 4.0 International License (CC BY 4.0)
 - **CRS original:** WGS 84 (EPSG:4326)
+
+### Capa: 2000 layer
+- **Fuente:** Emergency Management Service (GHSL)
+- **Versión/Tesela:** R2023A // R5_C31, R6_C31, R6_C32, R7_C32
+- **URL:** https://human-settlement.emergency.copernicus.eu/download.php?ds=bu
+- **Licencia:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **CRS original:** World Mollweide (ESRI:54009)
