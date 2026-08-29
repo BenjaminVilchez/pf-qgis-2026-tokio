@@ -25,3 +25,10 @@
 - **URL:** https://human-settlement.emergency.copernicus.eu/download.php?ds=bu
 - **Licencia:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 - **CRS original:** World Mollweide (ESRI:54009)
+
+### Capa: 2020 layer
+- **Fuente:** Emergency Management Service (GHSL)
+- **Versión/Tesela:** R2023A // R5_C31, R6_C31, R6_C32, R7_C32
+- **URL:** https://human-settlement.emergency.copernicus.eu/download.php?ds=bu
+- **Licencia:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **CRS original:** World Mollweide (ESRI:54009)
