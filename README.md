@@ -32,3 +32,33 @@
 - **URL:** https://human-settlement.emergency.copernicus.eu/download.php?ds=bu
 - **Licencia:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 - **CRS original:** World Mollweide (ESRI:54009)
+
+## Resultados del análisis 2000–2020
+
+| Variable | 2000 | 2020 | Δ ha | Δ % |
+|---|---:|---:|---:|---:|
+| Urbano (ha) | 92,900 | 97,086 | +4,186 | +4.51% |
+| Bosque (ha) | 77,149.26 | 75,722.67 | −1,426.59 | −1.85% |
+
+## Cambios detectados
+
+| Máscara | Celdas | Superficie (ha) |
+|---|---:|---:|
+| Urbano nuevo | 7,997 | 7,997 |
+| Pérdida de bosque | 15,851 | 1,426.59 |
+
+## Conteo de celdas
+
+### Urbano
+- Urbano 2000: 92,900 celdas
+- Urbano 2020: 97,086 celdas
+- Urbano nuevo: 7,997 celdas
+
+### Bosque
+- Bosque 2000: 857,214 celdas
+- Bosque 2020: 841,363 celdas
+- Pérdida de bosque: 15,851 celdas
+
+### Resolución
+- Urbano (GHSL): 100 × 100 m = 1 ha por celda
+- Bosque (Hansen): 30 × 30 m = 0.09 ha por celda
