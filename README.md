@@ -62,3 +62,8 @@
 ### Resolución
 - Urbano (GHSL): 100 × 100 m = 1 ha por celda
 - Bosque (Hansen): 30 × 30 m = 0.09 ha por celda
+
+### Cruce urbano-bosque
+
+Se utilizó **Zonal Statistics (Sum)** para cruzar `urbano_nuevo` con `perdida_bosque`. Se obtuvieron **15,798 píxeles** de pérdida de bosque dentro de las nuevas zonas urbanas. A **0.09 ha por píxel**, esto equivale a **1,421.82 ha de bosque perdido**.
+
