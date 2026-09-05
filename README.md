@@ -1,3 +1,17 @@
+# Expansión urbana y pérdida de bosque en Tokio
+
+### ¿Cuánto creció la ciudad y qué pasó con las áreas boscosas?
+
+Entre 2000 y 2020, el área urbana aumentó en **4,186 ha**, pasando de 92,900 a 97,086 ha, lo que representa un crecimiento del **4.51%**. Durante el mismo período, las áreas boscosas disminuyeron en **1,426.59 ha (1.85%)**. Además, **1,421.81 ha de pérdida de bosque** se localizaron dentro de las nuevas áreas urbanas.
+
+## Mapas
+
+![Área urbana vs bosque perdido](area_urbana_vs_bosque_perdido.png)
+
+![Aumento en área urbana](aumento_en_area_urbana.png)
+
+![Disminución de bosque](disminucion_de_bosque.png)
+
 ### Capa: área_análisis
 - **Fuente:** Simple Maps
 - **Versión/Tesela:** No posee una versión como tal o una tesela ya que es un mapa de Japón completo
@@ -62,12 +76,6 @@
 ### Resolución
 - Urbano (GHSL): 100 × 100 m = 1 ha por celda
 - Bosque (Hansen): 30 × 30 m = 0.09 ha por celda
-
-![Área urbana vs bosque perdido](area_urbana_vs_bosque_perdido.png)
-
-![Aumento en área urbana](aumento_en_area_urbana.png)
-
-![Disminución de bosque](disminucion_de_bosque.png)
 
 ### Cruce urbano-bosque
 
