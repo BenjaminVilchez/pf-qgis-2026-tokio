@@ -12,6 +12,15 @@ Entre 2000 y 2020, el área urbana aumentó en **4,186 ha**, pasando de 92,900 a
 
 ![Disminución de bosque](disminucion_de_bosque.png)
 
+
+Capas del proyecto
+bosque_2000: áreas identificadas como bosque en el año 2000.
+bosque_2020: áreas de bosque que se mantuvieron hasta 2020.
+perdida_bosque: áreas donde se registró pérdida de bosque durante el período analizado.
+urbano_2000: área urbana identificada para el año 2000.
+urbano_2020: área urbana identificada para el año 2020.
+urbano_nuevo: áreas que pasaron a formar parte de la zona urbana entre 2000 y 2020.
+
 ### Capa: área_análisis
 - **Fuente:** Simple Maps
 - **Versión/Tesela:** No posee una versión como tal o una tesela ya que es un mapa de Japón completo
